@@ -14,4 +14,4 @@ I built [BranfordVolunteers.org](https://www.branfordvolunteers.org/), a place f
 
 ### Skilled with
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,vite,webpack,js,html,css,jest,vitest,vercel,azure,git,vscode,tailwind&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nextjs,react,vite,webpack,jest,vitest,vercel,ts,html,css,azure,git,vscode,tailwind,figma&perline=8)](https://skillicons.dev)
