@@ -2,7 +2,10 @@
 
 I'm Walker, a Full Stack Software Developer 👨‍💻 
 
-I built [BranfordVolunteers.org](https://www.branfordvolunteers.org/), a place for nonprofits to <br /> publicize their needs and for volunteers to find opportunities, <br /> on behalf of [Antonym Partners](https://antonympartners.com/) and the Branford Community Foundation.
+
+I built [BranfordVolunteers.org](https://www.branfordvolunteers.org/) on behalf of [Antonym Partners](https://antonympartners.com/) and the Branford Community Foundation.
+<br> The platform created a much-needed place for nonprofits to publicize their openings and for volunteers to find opportunities.
+
 
 ### 💼 My Background
 
@@ -23,4 +26,4 @@ I have a degree in International Politics and studied web development with [The 
 
 ## Skilled with
 
-[![My Skills](https://skillicons.dev/icons?i=js,nextjs,react,vite,webpack,jest,vitest,vercel,ts,html,css,azure,git,vscode,tailwind,figma&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,nextjs,react,vite,webpack,jest,vitest,vercel,ts,postgres,html,css,azure,git,vscode,tailwind,figma&perline=9)](https://skillicons.dev)
